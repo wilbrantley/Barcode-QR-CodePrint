@@ -1,6 +1,6 @@
-﻿namespace TaxSlayerPrint
+﻿namespace BarcodeQRCodePrint
 {
-    partial class TaxSlayerPrint
+    partial class BarcodeQRCodePrint
     {
         /// <summary>
         /// Required designer variable.
