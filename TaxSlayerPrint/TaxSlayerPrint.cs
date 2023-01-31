@@ -4,11 +4,11 @@ using System.Windows.Forms;
 using QRCoder;
 using Zen.Barcode;
 
-namespace TaxSlayerPrint
+namespace Barcode-QR-CodePrint
 {
-    public partial class TaxSlayerPrint : Form
+    public partial class Barcode-QR-CodePrint : Form
     {
-        public TaxSlayerPrint()
+        public Barcode-QR-CodePrint()
         {
             InitializeComponent();
         }
